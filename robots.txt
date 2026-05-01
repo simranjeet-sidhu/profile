@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://simranjeet-sidhu.github.io/profile/sitemap.txt
+Sitemap: https://simranjeet-sidhu.github.io/profile/sitemap.xml
+Sitemap: https://simranjeet-sidhu.github.io/profile/sitemap_index.xml
